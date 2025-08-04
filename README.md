@@ -59,11 +59,11 @@ Welcome to my academic publications repository. This repository contains a curat
 
 - **Gambôa, J., Rimani, J., Lizy-Destrez, S., et al.**  
   *Sizing of a Propelled-Hopping System on the Moon*  
-  _IAC 2022_
+  _Proceedings of IAC 2022_
 
 - **Fusaro, R., Viola, N., Narducci, G., Governale, G., Rimani, J., et al.**  
   *iDREAM: A Multidisciplinary Methodology and Integrated Toolset for Flight Vehicle Engineering*  
-  _IAC 2022_
+  _Proceedings of IAC 2022_
 
 - **Governale, G., Rimani, J., Narducci, G., Viola, N., Fusaro, R., et al.**  
   *Rapid Prototyping for Martian Space Systems*  
@@ -79,7 +79,7 @@ Welcome to my academic publications repository. This repository contains a curat
 
 - **de Paor, C., Rimani, J., Lizy-Destrez, S.**  
   *Low-Cost Uncrewed Lunar Landers: Mission Design and Feasibility*  
-  _IAC 2022_
+  _Proceedings of IAC 2022_
 
 ---
 
@@ -91,7 +91,7 @@ Welcome to my academic publications repository. This repository contains a curat
 
 - **Dreier, M., Rimani, J., Sachidanand, M., Govind Reddy, G. R.**  
   *Autonomous Navigation Applied to the IGLUNA Lunar Analogue Mission*  
-  _IAC 2021_
+  _Proceedings of IAC 2021_
 
 ---
 
