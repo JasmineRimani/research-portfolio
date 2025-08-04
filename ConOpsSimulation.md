@@ -92,6 +92,11 @@ Standard ConOps approaches are limited when autonomy increases. They often assum
 > The framework aims to be part of an interactive toolchain where AI and human operators **co-develop mission timelines and architecture choices**.
 
 ---
+## 🔍 Related Work
+
+- 🔗 [iDREAM: A Multidisciplinary Methodology and Integrated Toolset for Flight Vehicle Engineering (2022)](https://www.researchgate.net/publication/363742956_iDREAM_a_multidisciplinary_methodology_and_integrated_toolset_for_flight_vehicle_engineering)
+
+---
 
 ## 📝 Citation
 
