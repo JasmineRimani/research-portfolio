@@ -104,7 +104,7 @@ If this work contributes to your research, please cite:
 
 ```bibtex
 @article{Rimani2023Hopper,
-  author = {Rimani, Jasmine and Bucchioni, Giordana and Ryals, Andrea D. and Viola, Nicola and Lizy-Destrez, Séverine},
+  author = {Rimani, Jasmine and Bucchioni, Giordana and Ryals, Andrea D. and Viola, Nicola and Lizy-Destrez, Stéphanie},
   title = {Integrated Conceptual Design and Parametric Control Assessment for a Hybrid Mobility Lunar Hopper},
   journal = {Aerospace},
   year = {2023},
