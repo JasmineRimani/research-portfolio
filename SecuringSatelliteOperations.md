@@ -11,7 +11,7 @@
 
 With the proliferation of autonomous satellites and mega-constellations, space systems are now more exposed to cybersecurity threats than ever before. Traditional ground-segment defenses often react *after* an intrusion has occurred—leaving spacecraft vulnerable to command hijacking, GNSS spoofing, and mission degradation.
 
-This research introduces **SafetySat**: a novel onboard safety framework that enables satellites to **detect anomalies and protect themselves in real time**, significantly enhancing mission resilience.
+This research introduces **SafetySat**: a novel onboard safety framework that enables satellites to **detect anomalous commands or signals and protect themselves in real time**, significantly enhancing mission resilience.
 
 ---
 
@@ -19,7 +19,7 @@ This research introduces **SafetySat**: a novel onboard safety framework that en
 
 - **Telecommand Hijacking:** Unauthorized commands can be trusted blindly by spacecraft once decoded.
 - **GNSS Spoofing & Jamming:** Can mislead navigation, timing, and orbit control systems.
-- **Operator Burden:** Current anomaly detection methods rely heavily on human ground support post-incident.
+- **Operator Burden:** Current cyberattack detection methods rely heavily on human ground support post-incident.
 - **Standardization Vulnerabilities:** Uniform software/hardware opens doors for repeatable attacks across constellations.
 
 ---
@@ -55,13 +55,13 @@ Early testing confirms the potential of SafetySat to **proactively detect** and 
 
 ## 📚 Keywords
 
-`Knowledge Systems` • `Autonomous Systems` • `On-board Safety` • `GNSS Spoofing` • `Anomaly Detection` • `Clustering Algorithms`
+`Knowledge Systems` • `Autonomous Systems` • `On-board Safety` • `GNSS Spoofing` • `Cyberattack Detection` • `Clustering Algorithms`
 
 ---
 
 ## 📈 Future Work
 
-- Improve temporal anomaly detection with **deep learning models** (e.g., LSTM AutoEncoders).
+- Improve temporal GNSS anomalous signals detection with **deep learning models** (e.g., LSTM AutoEncoders).
 - Integrate richer datasets across varied satellite missions.
 - Build generalized onboard cybersecurity modules for next-gen satellite platforms.
 
