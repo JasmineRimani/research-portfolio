@@ -77,7 +77,6 @@ Rimani, J., Viola, N., & Saluzzi, A. (2022). An approach to the preliminary sizi
 ## 📂 Related Work
 
 - ✅ [Simulating Operational Concepts for Autonomous Robotic Space Exploration Systems (2023)](https://www.mdpi.com/2226-4310/10/5/408)
-- ✅ [Multi-Fidelity Method for Comparing System Capabilities in Planetary Missions (2022)](https://www.mdpi.com/2226-4310/9/12/824) *(next paper in the same issue)*
 
 ---
 
