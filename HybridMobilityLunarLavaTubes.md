@@ -1,6 +1,6 @@
 # 🌑 Hybrid Mobility for Lunar Lava Tube Exploration: Conceptual Design & Control Assessment
 
-**Authors:** Jasmine Rimani, Giacomo Bucchioni, Adam D. Ryals, Nicola Viola, Séverine Lizy-Destrez  
+**Authors:** Jasmine Rimani, Giordana Bucchioni, Adrea D. Ryals, Nicola Viola, Stéphanie Lizy-Destrez  
 **Journal:** Aerospace 2023, 10(8), 669  
 **DOI:** [10.3390/aerospace10080669](https://doi.org/10.3390/aerospace10080669)  
 
@@ -28,7 +28,7 @@ This paper presents a **preliminary design** for a robotic *cave explorer* targe
 - **Parametric mass and power estimation**
 - **Control performance analysis under design variations**
 
-> The novelty lies in the **tight coupling of design feasibility and adaptive control capability**—assessing whether mobility and GNC systems can remain effective under mass/inertia fluctuations as the design evolves.
+> The novelty lies in the **tight coupling of design feasibility and adaptive control capability**—assessing whether mobility and GNC systems can remain effective under mass/inertia fluctuations as the design evolves. The study provide a sizing box that can be explored during the different design phases.
 
 ---
 
@@ -37,7 +37,7 @@ This paper presents a **preliminary design** for a robotic *cave explorer* targe
 ### 🔁 Hybrid Mobility System
 - **Wheels + Thrusters** for dual-mode terrain traversal:
   - Wheels for efficiency on flat basaltic terrain
-  - Thrusters for semi-ballistic hops over large obstacles
+  - Thrusters for semi-ballistic hops over large obstacles or to enter the caves.
 
 ### 🧠 Autonomy Level
 - Targeting **ECSS E3-level autonomy** (adaptive onboard decision-making)
@@ -83,12 +83,12 @@ This approach:
 
 ---
 
-## 🔍 Future Work
-
-- Extend MRAC controller with **robust or optimal control** strategies
-- Broader **Multidisciplinary Design Optimization (MDO)** integration
-- Explore **flexible GNC architectures** that evolve with system parameters
-- Include full mission simulations in lunar cave analog environments
+## 🔍 Related Work
+- 🔗[Application of a hierarchical task planner to a lunar lava tube analogue robotic mission](https://www.researchgate.net/publication/355873695_Application_of_a_hierarchical_task_planner_to_a_lunar_lava_tube_analogue_robotic_mission)
+- 🔗[Sizing of a Propelled-Hopping System on the Moon](https://www.researchgate.net/publication/363743254_Sizing_of_a_Propelled-Hopping_System_on_the_Moon)
+- 🔗[An Integrated Design Platform to Analyse and Size Planetary Exploration Systems Applied to Lunar Lava Tube Exploration](https://www.researchgate.net/publication/363742561_An_Integrated_Design_Platform_to_Analyse_and_Size_Planetary_Exploration_Systems_Applied_to_Lunar_Lava_Tube_Exploration)
+- 🔗[A novel approach to planetary rover guidance, navigation and control based on the estimation of the remaining useful life](https://www.researchgate.net/publication/355873613_A_novel_approach_to_planetary_rover_guidance_navigation_and_control_based_on_the_estimation_of_the_remaining_useful_life)
+- 🔗[A parametric data handling evaluation framework for autonomous lunar networks](https://link.springer.com/article/10.1007/s12567-021-00390-4)
 
 ---
 
@@ -104,7 +104,7 @@ If this work contributes to your research, please cite:
 
 ```bibtex
 @article{Rimani2023Hopper,
-  author = {Rimani, Jasmine and Bucchioni, Giacomo and Ryals, Adam D. and Viola, Nicola and Lizy-Destrez, Séverine},
+  author = {Rimani, Jasmine and Bucchioni, Giordana and Ryals, Andrea D. and Viola, Nicola and Lizy-Destrez, Séverine},
   title = {Integrated Conceptual Design and Parametric Control Assessment for a Hybrid Mobility Lunar Hopper},
   journal = {Aerospace},
   year = {2023},
