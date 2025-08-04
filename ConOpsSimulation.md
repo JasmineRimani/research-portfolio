@@ -1,6 +1,6 @@
 # 🧠 Simulating Operational Concepts for Autonomous Space Robots: A Framework for Early Design Validation
 
-**Authors:** Jasmine Rimani, Nicola Viola, Séverine Lizy-Destrez  
+**Authors:** Jasmine Rimani, Nicola Viola, Stéphanie Lizy-Destrez  
 **Journal:** Aerospace 2023, 10(5), 408  
 **DOI:** [10.3390/aerospace10050408](https://doi.org/10.3390/aerospace10050408)  
 📅 *Published: May 2023*
@@ -21,11 +21,11 @@ This study introduces a **simulation-backed framework** that helps **validate an
 
 Designing autonomous systems involves major systems engineering challenges:
 
-- ✍️ Writing realistic and flexible **requirements**  
+- ✍️ Writing realistic and flexible **requirements** and **ConOps**
 - 🔌 Managing **interfaces** between hardware, software, and human operators  
 - ✅ Ensuring **verification & validation (V&V)** of system behavior  
 
-Standard ConOps approaches are limited when autonomy increases. They often assume static behavior and ignore context-driven decision-making. This framework closes that gap by simulating how a system **reacts to its environment**, plans missions, and consumes resources.
+Standard ConOps approaches are limited when autonomy increases. They often assume static behavior and ignore context-driven decision-making. This framework closes that gap by simulating how a system **reacts to its environment**, plans missions, and consumes resources from the very first steps of mission design.
 
 ---
 
@@ -60,19 +60,10 @@ Standard ConOps approaches are limited when autonomy increases. They often assum
 
 ## 🧪 Key Contributions
 
-- ✅ Simulates operational behavior **during early design**, not just post-deployment  
+- ✅ Simulates operational behavior **during early design**. 
 - 🧩 Captures tight integration of autonomy, physical systems, and mission goals  
 - 🧠 Provides traceable, explainable planning logic using **MBSE + MDP**  
 - 🔁 Enables **reusability and modularity** across mission designs
-
----
-
-## 🔬 Applications
-
-- 🚀 Conceptual design of autonomous rovers, landers, and orbiters  
-- 🛠️ Trade-space exploration and architecture validation  
-- 📊 Ground control planning with **first-pass operational timelines**  
-- 🔁 Scenario testing with simulated faults and rule changes
 
 ---
 
@@ -81,20 +72,12 @@ Standard ConOps approaches are limited when autonomy increases. They often assum
 `MBSE` • `ConOps` • `MDP` • `MCTS` • `Space Robotics` • `Autonomy` • `System Simulation` • `Planetary Exploration`
 
 ---
-
-## 🎯 Future Work
-
-- 🔄 Introduce **multi-agent collaboration** for distributed systems  
-- 🧠 Couple MCTS with **neural networks** for faster and deeper planning  
-- 🎮 Add support for **mixed-initiative** operation (human + AI co-planning)  
-- 📚 Connect with a technology database for **trade-space optimization**
-
-> The framework aims to be part of an interactive toolchain where AI and human operators **co-develop mission timelines and architecture choices**.
-
----
 ## 🔍 Related Work
 
-- 🔗 [iDREAM: A Multidisciplinary Methodology and Integrated Toolset for Flight Vehicle Engineering (2022)](https://www.researchgate.net/publication/363742956_iDREAM_a_multidisciplinary_methodology_and_integrated_toolset_for_flight_vehicle_engineering)
+- 🔗[Integrated Conceptual Design and Parametric Control Assessment for a Hybrid Mobility Lunar Hopper](https://www.mdpi.com/2226-4310/10/8/669)
+- 🔗[Application of a hierarchical task planner to a lunar lava tube analogue robotic mission](https://www.researchgate.net/publication/355873695_Application_of_a_hierarchical_task_planner_to_a_lunar_lava_tube_analogue_robotic_mission)
+- 🔗[Sizing of a Propelled-Hopping System on the Moon](https://www.researchgate.net/publication/363743254_Sizing_of_a_Propelled-Hopping_System_on_the_Moon)
+- 🔗[An Integrated Design Platform to Analyse and Size Planetary Exploration Systems Applied to Lunar Lava Tube Exploration](https://www.researchgate.net/publication/363742561_An_Integrated_Design_Platform_to_Analyse_and_Size_Planetary_Exploration_Systems_Applied_to_Lunar_Lava_Tube_Exploration)
 
 ---
 
@@ -104,7 +87,7 @@ If this work supports your research, please cite:
 
 ```bibtex
 @article{Rimani2023ConOps,
-  author = {Rimani, Jasmine and Viola, Nicola and Lizy-Destrez, Séverine},
+  author = {Rimani, Jasmine and Viola, Nicola and Lizy-Destrez, Stéphanie},
   title = {Simulating Operational Concepts for Autonomous Robotic Space Exploration Systems: A Framework for Early Design Validation},
   journal = {Aerospace},
   year = {2023},
