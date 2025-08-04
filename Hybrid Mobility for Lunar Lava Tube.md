@@ -4,6 +4,7 @@
 **Journal:** Aerospace 2023, 10(8), 669  
 **DOI:** [10.3390/aerospace10080669](https://doi.org/10.3390/aerospace10080669)  
 **Link to Publication:** https://www.mdpi.com/2408154
+
 📅 *Published: August 2023*
 
 ---
