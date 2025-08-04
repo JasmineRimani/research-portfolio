@@ -33,19 +33,6 @@ The goal is to support **early-stage system design** by providing performance fe
 
 ---
 
-## 🧪 Validation & Results
-
-- The model was validated against **Thales Alenia Space drop test data** and showed:
-  - <2% error in trajectory tracking,
-  - Realistic predictions of vertical and horizontal dispersion under wind.
-
-- **Sensitivity studies** showed:
-  - Vertical touchdown velocity <3 m/s for masses between 1.5–2.0 t with efficient control.
-  - Lower control efficiency (e.g., slower winch response) increases risk of overshoot.
-  - Inflated parafoil area significantly affects control authority and descent speed.
-
----
-
 ## 🎯 Key Insights
 
 - **Rapid design iteration** is possible with a fully integrated, low-fidelity model.
@@ -77,6 +64,7 @@ Rimani, J., Viola, N., & Saluzzi, A. (2022). An approach to the preliminary sizi
 ## 📂 Related Work
 
 - ✅ [Simulating Operational Concepts for Autonomous Robotic Space Exploration Systems (2023)](https://www.mdpi.com/2226-4310/10/5/408)
+-🔗 [iDREAM: A Multidisciplinary Methodology and Integrated Toolset for Flight Vehicle Engineering (2022)](https://www.researchgate.net/publication/363742956_iDREAM_a_multidisciplinary_methodology_and_integrated_toolset_for_flight_vehicle_engineering)
 
 ---
 
