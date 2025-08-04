@@ -82,11 +82,6 @@ Rimani, J., Mascolo, L., & Fraire, J. A. (2021). *A parametric data handling e
 - 🔗 [Sizing of a Propelled-Hopping System on the Moon (2022)](https://www.researchgate.net/publication/363743254_Sizing_of_a_Propelled-Hopping_System_on_the_Moon)
 - 🔗 [An Integrated Design Platform to Analyse and Size Planetary Exploration Systems Applied to Lunar Lava Tube Exploration (2022)](https://www.researchgate.net/publication/363742561_An_Integrated_Design_Platform_to_Analyse_and_Size_Planetary_Exploration_Systems_Applied_to_Lunar_Lava_Tube_Exploration)
 - 🔗 [A Novel Approach to Planetary Rover Guidance, Navigation and Control Based on the Estimation of the Remaining Useful Life (2020)](https://www.researchgate.net/publication/355873613_A_novel_approach_to_planetary_rover_guidance_navigation_and_control_based_on_the_estimation_of_the_remaining_useful_life)
-
----
-
-## TL;DR
-
-A flexible parametric tool—tested on Marius Hills lava tube networks—quickly shows *when* and *why* to adopt SC&F (DTN) vs. S&F, identifies critical thresholds (~1.5 Tbit/day), and helps shape next-gen lunar comms architectures before landing pad designs ever begin.
+- 🔗[Integrated Conceptual Design and Parametric Control Assessment for a Hybrid Mobility Lunar Hopper](https://www.mdpi.com/2226-4310/10/8/669)
 
 ---
